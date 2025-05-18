@@ -1,6 +1,4 @@
-# SoccerEDMF: Enhanced Dual-Model Framework for Precision Player
-Tracking and Ball Detection in Soccer Videos
-
+# SoccerEDMF: Enhanced Dual-Model Framework for Precision Player Tracking and Ball Detection in Soccer Videos
 
 ## Overview
 
